@@ -1,4 +1,4 @@
-# Assignment 06 — Banner Grabbing Tool
+#  Banner Grabbing Tool
 
 **Author:** Younes Al-Salami  
 **Track:** Cybersecurity Programming Bootcamp  
